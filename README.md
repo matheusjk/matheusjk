@@ -33,7 +33,7 @@
   <img align="center" alt="Matheus_JQuery" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   
   
-  <img align="center" alt="Matheus_Linux" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  
  
   
   
@@ -42,8 +42,11 @@
   
   
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Matheus_Linux" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
-  <img align="center" alt="Matheus_Linux" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  
+  <img align="center" alt="Matheus_MongoDB" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
   
   <img align="center" alt="Matheus_MySQL" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
