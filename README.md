@@ -27,11 +27,14 @@
           
   <img align="center" alt="Matheus_Jupyter" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
-  <img  align="center" alt="Matheus_Docker" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
-  <img align="center" alt="Matheus_PostgreSQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img  align="center" alt="Matheus_Matplotlib" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+          
+  <img  align="center" alt="Matheus_Plotly" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   
-  <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img  align="center" alt="Matheus_Databricks" height="70" width="115" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" />
+  
+  <img align="center" alt="Matheus_AIRFLOW" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+
 
  
                     
@@ -47,6 +50,12 @@
   
 <div style="display: inline_block"><br>
 
+  <img  align="center" alt="Matheus_Docker" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+  <img align="center" alt="Matheus_PostgreSQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  
+  <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
   <img align="center" alt="Matheus_DBEaver" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />        
   
   <img align="center" alt="Matheus_MySQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -55,11 +64,6 @@
   
   <img align="center" alt="Matheus_GoogleNuvem" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />        
   
-  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-
-  <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  
-  <img align="center" alt="Matheus_JS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     
  <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
   
@@ -73,8 +77,12 @@
 
 <div style="display: inline_block"><br>
 
+
+  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+
+  <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   
-  <img align="center" alt="Matheus_AIRFLOW" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+  <img align="center" alt="Matheus_JS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
   <img align="center" alt="Matheus_VSCODE" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
