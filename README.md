@@ -78,9 +78,11 @@
   
 <div>
   
-  <a href="https://www.linkedin.com/in/matheus-hil%C3%A1rio-ba54a115b/" target="_blank"> <img  alt="Matheus_Linkedin" height="45" width="115" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
+  <a href="https://www.linkedin.com/in/matheus-hil%C3%A1rio-ba54a115b/" target="_blank"> <img  alt="Matheus_Linkedin" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <!-- src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" -->
   
+  <img  />
+          
 <!--   <a href="malito:matheusrodriguesh1@gmail.com" target="_blank"><img  style="margin-right: auto" alt="Matheus_Gmail" height="40" width="115" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>   -->
   
   
