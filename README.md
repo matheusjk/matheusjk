@@ -107,7 +107,9 @@
 
 <div style="display: inline_block"><br>
 
- <!-- <img align="center" alt="Matheus_Selenium" height="70" width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" /> -->
+ <img align="center" alt="Matheus_Selenium" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+          
+ <img align="center" alt="Matheus_Selenium" height="70" width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" />
 
 
 </div>
