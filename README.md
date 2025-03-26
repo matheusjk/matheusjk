@@ -1,7 +1,7 @@
 ### Olá Mundo
 
-- 🔭 A procura de um trampo
-- 🌱 Estudando GCP, MongoDB, Spark, LLM's, IA, RAG, DeltaLake, Agentes de IA
+<!-- - 🔭 A procura de um trampo -->
+- 🌱 Estudando GCP, MongoDB, Spark, LLM's, IA, RAG, DeltaLake, Agentes de IA, Processamento Distribuido, Databricks
 - 📫 Contate-me no email: matheusrodriguesh1@gmail.com
 
 
