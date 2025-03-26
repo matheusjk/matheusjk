@@ -79,9 +79,11 @@
 
  <img align="center" alt="Matheus_VSCODE" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
- <img align="center" alt="Matheus_Arduino" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg">
+ <img align="center" alt="Matheus_Arduino" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+          
+ <img align="center" alt="Matheus_Bootstrap" style="padding-top:20px" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
- <img align="center" alt="Matheus_Bootstrap" style="padding-top:20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" -->
           
 </div>
   
