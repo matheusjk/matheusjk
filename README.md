@@ -27,22 +27,19 @@
 <!--  <img align="center" alt="Matheus_CSS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> -->
 
 
-  <img align="center" alt="Matheus_Linux" height="45" width="115"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
+  <img align="center" alt="Matheus_Linux" height="80" width="115"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
   
-  <img align="center" alt="Matheus_Spark" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="Matheus_Spark" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 
-  <img align="center" alt="Matheus_Pandas" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Matheus_Pandas" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
           
-  <img align="center" alt="Matheus_Jupyter" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Matheus_Jupyter" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
-  <img  align="center" alt="Matheus_Docker" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img  align="center" alt="Matheus_Docker" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
-  <img align="center" alt="Matheus_PostgreSQL" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Matheus_PostgreSQL" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   
-  <img align="center" alt="Matheus_MongoDB" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  
-  <img align="center" alt="Matheus_MySQL" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
+ 
                     
  
 
@@ -55,19 +52,22 @@
   
   
 <div style="display: inline_block"><br>
-  
 
-  <img align="center" alt="Matheus_Python" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Matheus_MongoDB" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
-  <img align="center" alt="Matheus_SQLAlchemy" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img align="center" alt="Matheus_MySQL" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img align="center" alt="Matheus_Flask" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Matheus_Python" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-  <img align="center" alt="Matheus_JS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Matheus_SQLAlchemy" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
+
+  <img align="center" alt="Matheus_Flask" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   
-  <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Matheus_JS" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
-  <img align="center" alt="Matheus_nodeJS" style="padding-top: 320px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
+  
+ <!-- <img align="center" alt="Matheus_nodeJS" style="padding-top: 320px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
   
 
 <!--   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg -->
