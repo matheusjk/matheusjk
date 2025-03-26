@@ -38,6 +38,8 @@
   <img align="center" alt="Matheus_PostgreSQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   
   <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+  <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
                     
  
 
@@ -81,8 +83,8 @@
 
 <div style="display: inline_block"><br>
 
- <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
+ <img align="center" alt="Matheus_VSCODE" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+          
 </div>
   
 ##  
