@@ -33,7 +33,7 @@
   
   <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-  <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ 
                     
  
 
@@ -60,11 +60,7 @@
   <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   
   <img align="center" alt="Matheus_JS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img align="center" alt="Matheus_HTML" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     
- 
-  
  <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
   
  <!-- <img align="center" alt="Matheus_nodeJS" style="padding-top: 320px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
@@ -77,11 +73,17 @@
 
 <div style="display: inline_block"><br>
 
- <img align="center" alt="Matheus_VSCODE" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Matheus_VSCODE" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
- <img align="center" alt="Matheus_Arduino" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Matheus_Arduino" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+ 
+  <img align="center" alt="Matheus_HTML" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
- <img align="center" alt="Matheus_Bootstrap" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Matheus_Bootstrap" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+
 
 <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" style="padding-top:20px" -->
           
