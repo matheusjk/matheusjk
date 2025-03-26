@@ -22,9 +22,7 @@
   
 <!--  <img align="center" alt="Matheus_Bootstrap" style="padding-top:20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> -->
   
-<!-- <img align="center" alt="Matheus_HTML" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> -->
-  
-<!--  <img align="center" alt="Matheus_CSS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> -->
+
 
 
   <img align="center" alt="Matheus_Linux" height="80" width="115"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
@@ -66,6 +64,10 @@
   <img align="center" alt="Matheus_Flask" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   
   <img align="center" alt="Matheus_JS" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="Matheus_HTML" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    
+  <img align="center" alt="Matheus_CSS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
  <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
   
