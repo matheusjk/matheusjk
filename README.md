@@ -103,7 +103,15 @@
 <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" style="padding-top:20px" -->
           
 </div>
-  
+
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" />
+
+
+</div>
+
 ##  
   
 <div>
