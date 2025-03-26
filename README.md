@@ -1,7 +1,7 @@
 ### Olá Mundo
 
 - 🔭 A procura de um trampo
-- 🌱 Estudando JS, NodeJS, MongoDB
+- 🌱 Estudando GCP, MongoDB, Spark, LLM's, IA, RAG, DeltaLake, Agentes de IA
 - 📫 Contate-me no email: matheusrodriguesh1@gmail.com
 
 
@@ -18,19 +18,34 @@
   
 <div style="display: inline_block">
 
-  <img align="center" alt="Matheus_Arduino" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg">
+<!--  <img align="center" alt="Matheus_Arduino" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"> -->
   
-  <img align="center" alt="Matheus_Bootstrap" style="padding-top:20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<!--  <img align="center" alt="Matheus_Bootstrap" style="padding-top:20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> -->
   
-  <img align="center" alt="Matheus_HTML" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<!-- <img align="center" alt="Matheus_HTML" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> -->
   
-  <img align="center" alt="Matheus_CSS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<!--  <img align="center" alt="Matheus_CSS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> -->
+
+
+
+  <img align="center" alt="Matheus_Linux" height="45" width="115"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
   
+  <img align="center" alt="Matheus_Spark" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+
+  <img align="center" alt="Matheus_Pandas" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+          
+  <img align="center" alt="Matheus_Jupyter" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
+  <img  align="center" alt="Matheus_Docker" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+  <img align="center" alt="Matheus_PostgreSQL" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+                    
   <img align="center" alt="Matheus_Flask" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   
   <img align="center" alt="Matheus_JS" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
-  <img align="center" alt="Matheus_JQuery" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+
+
+  <!-- <img align="center" alt="Matheus_JQuery" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"> -->
   
   
   
