@@ -67,7 +67,7 @@
 
   <img align="center" alt="Matheus_HTML" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     
-  <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ 
   
  <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
   
@@ -76,6 +76,13 @@
 
 <!--   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg -->
   
+</div>
+
+
+<div style="display: inline_block"><br>
+
+ <img align="center" alt="Matheus_CSS" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
 </div>
   
 ##  
