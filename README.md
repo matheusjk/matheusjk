@@ -107,7 +107,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Matheus_SQLAlchemy" height="45" width="115" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" />
+  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" />
 
 
 </div>
