@@ -8,9 +8,9 @@
 <div>
   
   <a href="https://github.com/matheusjk">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=matheusjk&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matheusjk&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjk&layout=compact&langs_count=16&theme=react"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjk&layout=compact&langs_count=16&theme=react"/>
     
 </div>
   
@@ -58,6 +58,8 @@
   <img align="center" alt="Matheus_MySQL" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
   <img align="center" alt="Matheus_Python" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+  <img align="center" alt="Matheus_GoogleNuvem" height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />        
   
   <img align="center" alt="Matheus_SQLAlchemy" height="80" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
 
