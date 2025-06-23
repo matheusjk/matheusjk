@@ -74,6 +74,9 @@
   
   <img align="center" alt="Matheus_MySQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
+  <img align="center" alt="Matheus_MariaDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+          
+
   
 <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" style="padding-top:20px" -->
           
