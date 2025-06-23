@@ -34,6 +34,8 @@
   <img align="center" alt="Matheus_AIRFLOW" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 
   <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
+  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   
   <!-- <img align="center" alt="Matheus_JQuery" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"> -->
   
@@ -51,15 +53,10 @@
   <img  align="center" alt="Matheus_Matplotlib" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
           
   <img  align="center" alt="Matheus_Plotly" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-  
-
-  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-
  
  <!-- <img align="center" alt="Matheus_NPM" style="padding-top: 20px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
   
  <!-- <img align="center" alt="Matheus_nodeJS" style="padding-top: 320px" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
-  
 
 <!--   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg -->
   
