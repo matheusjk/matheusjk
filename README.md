@@ -33,9 +33,9 @@
 
   <img align="center" alt="Matheus_AIRFLOW" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 
-  <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Matheus_Flask" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />           
 
-  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img align="center" alt="Matheus_SQLAlchemy" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /> 
   
   <!-- <img align="center" alt="Matheus_JQuery" height="45" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"> -->
   
