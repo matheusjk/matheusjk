@@ -70,7 +70,7 @@
   
   <img align="center" alt="Matheus_PostgreSQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   
-  <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Matheus_MongoDB" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />           
   
   <img align="center" alt="Matheus_MySQL" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
